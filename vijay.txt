@@ -1,0 +1,4 @@
+it is distributed version control system	
+>> git is less complicated  and merging model
+>> git is faster then svn
+>> git is a lightweight 
